@@ -10,7 +10,7 @@ gem "omniauth"
 gem 'omniauth-google-apps'
 gem "sinatra_auth_github"
 gem "openid-redis-store"
-gem "rack-canonical-host"
+gem "rack-canonical-host", ">= 1.2.0"
 gem "rack-ssl-enforcer"
 gem "rest-client"
 gem "haml"
