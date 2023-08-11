@@ -17,7 +17,7 @@ gem "haml"
 gem "json"
 gem "rspec"
 gem "rufus-scheduler"
-gem "nokogiri"
+gem "nokogiri", ">= 1.13.9"
 gem "dotenv"
 
 group :development do
