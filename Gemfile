@@ -2,7 +2,7 @@ source "http://rubygems.org"
 
 gem "bundler"
 gem "rake"
-gem "sinatra"
+gem "sinatra", ">= 4.0.0"
 gem "thin"
 gem "pg"
 gem "sequel"
