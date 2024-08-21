@@ -16,7 +16,7 @@ gem "rest-client"
 gem "haml"
 gem "json"
 gem "rspec"
-gem "rufus-scheduler"
+gem "rufus-scheduler", ">= 3.8.2"
 gem "nokogiri"
 gem "dotenv"
 
